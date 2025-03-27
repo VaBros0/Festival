@@ -9,5 +9,5 @@
 
 <hr>
 
-## Ссылка на демонстрацию
-https://markdown-editor.andona.click/
+## Ссылка на видео-демонстрацию
+[https://markdown-editor.andona.click/](https://drive.google.com/file/d/1kyK1sUYXIcPF1sjDwmvdQaQ9KKZAp2xV/view?usp=drive_link)
